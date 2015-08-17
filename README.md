@@ -3,7 +3,7 @@ This is a working template of REST service via Spring Boot - message gateway.
 
 ##purpose
 
-The main purpose of this application is to provide unified and simple interface for sending messages via any channel (sms, emails, etc...) and to store this messages in some queue. It is quite usefull then you have many services and you don't won't to teach each of them to work with your sms, email and other clients.
+The main purpose of this application is to provide unified and simple interface for sending messages via any channel (sms, emails, etc...) and to store this messages in some queue. It is quite usefull then you have many services and you don't wan't to teach each of them to work with your sms, email and other clients.
 
 ##how to run
 Just run MessageGatewayApplication class and Spring Boot will start application server automatically. 
@@ -14,7 +14,7 @@ This is a useful working example of how you can implement REST service with Spri
 
 This is a light version of real project, so I cutted some stuff, but it still working ^_^ 
 
-You can use this as a template with how-to on: Spring Boot, Spring Security, Spring JdbcTemplate, Spring MVC.
+You can use this as a template with how-to's on: Spring Boot, Spring Security, Spring JdbcTemplate, Spring MVC.
 
 ##how it works 
 
